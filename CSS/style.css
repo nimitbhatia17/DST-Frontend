@@ -1,0 +1,295 @@
+body
+{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.image1
+{
+  height: 15px;
+  width: 20px;
+  margin:auto 7px;
+  border-radius: 2px;
+}
+.layer1
+{
+  padding: 7px;
+  text-align: right;
+  background-color: #056676;
+  color: #eaf6f6;
+}
+.contact-us-about
+{
+  color: #eaf6f6;
+  font-size: 14px;
+}
+.contact-us-about:hover
+{
+  color: #a3d2ca;
+}
+.layer2
+{
+  padding: 15px;
+  font-weight: bold;
+  color: #056676;
+  background-color: #a3d2ca;
+}
+.govtline
+{
+  font-size: 20px;
+  display:inline;
+}
+.ministryline
+{
+  position: absolute;
+  top:28px;
+  font-size: 20px;
+  right: 20px;
+}
+.Punjab
+{
+  display: inline-block;
+  margin-bottom: 10px;
+  position: relative;
+  font-size: 35px;
+  left: 20px;
+  bottom: 47px;
+}
+.science
+{
+  margin-bottom: 10px;
+  display: inline-block;
+  font-size: 35px;
+  position: relative;
+  right: 20px;
+  bottom: 47px;
+}
+.layer3
+{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.layer3object1
+{
+  margin-left: 5px;
+  display: inline-block;
+}
+.layer3object2
+{
+  margin-left: 250px;
+  display: inline-block;
+}
+a
+{
+  text-decoration: none;
+}
+.layer4
+{
+  padding-top: 14px;
+}
+.button
+{
+  margin-left: 10px;
+  font-weight: bold;
+  color: #393b44;
+  margin-right: 10px;
+}
+.button2
+{
+  color: #393b44;
+  font-weight: bold;
+  margin-left: 880px;
+  margin-right: 10px;
+}
+.button:hover
+{
+  color: #eb8f8f;
+}
+.button2:hover
+{
+  color: #eb8f8f;
+  background-color: white;
+}
+.contact-us-about
+{
+  margin: 10px;
+}
+.PEClogo
+{
+  height: 100px;
+  width: 100px;
+}
+.emblem
+{
+  height: 100px;
+  width: 87px;
+}
+.layer4
+{
+  background-color: #e8ded2;
+  height: 35px;
+}
+
+.teachers
+{
+  height: 200px;
+  width: 200px;
+}
+.down
+{
+
+}
+.teacher1
+{
+  margin: 30px;
+  background-color: #a2d5f2;
+  display:inline-block;
+  padding: 20px;
+  line-height: 0.85;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.teacher2
+{
+  margin: 30px;
+  background-color: #a2d5f2;
+  display:inline-block;
+  padding: 20px;
+  line-height: 0.85;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.teacher3
+{
+  margin: 30px;
+  background-color: #a2d5f2;
+  display:inline-block;
+  padding: 20px;
+  line-height: 0.85;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.teacher4
+{
+  margin: 30px;
+  background-color: #a2d5f2;
+  display:inline-block;
+  padding: 20px;
+  line-height: 0.85;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+}
+.location
+{
+  background-color: #a2d5f2;
+  background: #a2d5f2;
+}
+.teacher1:hover
+{
+  background-color: #d6e0f0;
+}
+.teacher2:hover
+{
+  background-color: #d6e0f0;
+}
+.teacher3:hover
+{
+  background-color: #d6e0f0;
+}
+.teacher4:hover
+{
+  background-color: #d6e0f0;
+}
+.myButton {
+	background-color:#7892c2;
+	border-radius:5px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+	font-size:22px;
+	font-weight:bold;
+	padding:12px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.filterhead
+{
+  text-align: center;
+}
+.filter
+{
+  color: #07689f;
+}
+.select {
+    position: relative;
+    display: inline-block;
+    margin-left: 30px;
+    left: 40px;
+    margin-bottom: 15px;
+    width: 30%;
+}    .select select {
+        font-family: 'Arial';
+        display: inline-block;
+        width: 100%;
+        cursor: pointer;
+        padding: 10px 15px;
+        outline: 0;
+        border: 0px solid #000000;
+        border-radius: 0px;
+        background: #e6e6e6;
+        color: #7b7b7b;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+        .select select::-ms-expand {
+            display: none;
+        }
+        .select select:hover,
+        .select select:focus {
+            color: #000000;
+            background: #cccccc;
+        }
+        .select select:disabled {
+            opacity: 0.5;
+            pointer-events: none;
+        }
+.select_arrow {
+    position: absolute;
+    top: 54px;
+    right: 15px;
+    pointer-events: none;
+    border-style: solid;
+    border-width: 8px 5px 0px 5px;
+    border-color: #7b7b7b transparent transparent transparent;
+}
+.select select:hover ~ .select_arrow,
+.select select:focus ~ .select_arrow {
+    border-top-color: #000000;
+}
+.select select:disabled ~ .select_arrow {
+    border-top-color: #cccccc;
+}
+.last
+{
+  background-color: #056676;
+  color:#e6e6e6;
+  margin: 0;
+
+  margin-top: 50px;
+  padding: 40px;
+}
+.rights
+{
+  text-align: center;
+  margin: auto;
+}
